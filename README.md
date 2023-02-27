@@ -4,4 +4,5 @@
 
 Para rodar algumas dessas questões você deve ter o Ming instalado no seu computador 
 
+C
 
