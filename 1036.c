@@ -17,6 +17,7 @@ int main(){
         printf("R2 = %.5lf\n",r2);
     }
     
+    printf("Obrigado por vir aqui")
     return 0;
     
 }
