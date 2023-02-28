@@ -8,4 +8,8 @@ int main(){
     }else{
         printf("valores não aceitos\n");
     }
+
+    printf("おはよございます");
+    return 0;
 }
+
