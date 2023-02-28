@@ -21,7 +21,7 @@ int main(){
         printf("Fora de Intervalo\n");
     }
 
-
+    printf("おはようございます。");
     return 0;
     
 }
